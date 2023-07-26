@@ -1,4 +1,4 @@
-####Point cleaning
+#### Point cleaning
 
 ```yaml
 service: xiaomi_miot.call_action
@@ -13,7 +13,7 @@ data:
   throw: true
 ```
 
-####Custom zone cleaning
+#### Custom zone cleaning
 
 ```yaml
 service: xiaomi_miot.call_action
